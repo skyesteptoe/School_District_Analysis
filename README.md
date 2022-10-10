@@ -7,7 +7,7 @@ The local school board received evidence of academic dishonesty in one of distri
 The goal of this analysis is to determine if the data validates this report of academic dishonesty with 9th graders at Thomas High School.
 
 ## Results
-### To investigate whether there was academic dishonesty, math and reading test scores for 9th graders at Thomas High School (THS) were removed. Data was compared before and after removing these students from our analysis to see how the potentially dishonest scores impacted the results.
+## To investigate whether there was academic dishonesty, math and reading test scores for 9th graders at Thomas High School (THS) were removed. Data was compared before and after removing these students from our analysis to see how the potentially dishonest scores impacted the results.
 
 - How is the district summary affected?
 Looking at the tables below, we can see that only the average math score was impacted by removing THS 9th graders. The average math score decreased from 79 (including THS 9th graders) to 78.9 when THS 9th graders were removed from the analysis.
@@ -31,7 +31,7 @@ Data excluding THS 9th graders
 
 ## How does replacing the ninth-grade scores affect the following:
 
-### Math and reading scores by grade. Replacing the 9th graders math and reading scores with no value does not greatly influence the average scores. They are nearly the same.
+## Math and reading scores by grade. Replacing the 9th graders math and reading scores with no value does not greatly influence the average scores. They are nearly the same.
 
 Data including THS 9th graders:
 ![image](Resources\math_grade_pre.jpg)
@@ -47,14 +47,14 @@ Data including THS 9th graders:
 Data excluding THS 9th graders:
 ![image](Resources\spending_post.jpg)
 
-### Scores by school size. Average scores and passing percentages are not altered for school size either. The averages and percentages are unchanged identical.
+## Scores by school size. Average scores and passing percentages are not altered for school size either. The averages and percentages are unchanged identical.
 Data including THS 9th graders:
 ![image](Resources\size_pre.jpg)
 
 Data excluding THS 9th graders:
 ![image](Resources\size_post.jpg)
 
-### Scores by school type. As above, average scores and % passing rates are unchanged with or without THS 9th graders in the analysis.
+## Scores by school type. As above, average scores and % passing rates are unchanged with or without THS 9th graders in the analysis.
 
 Data including THS 9th graders:
 ![image](Resources\type_pre.jpg)
