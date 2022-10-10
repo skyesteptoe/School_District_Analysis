@@ -13,7 +13,7 @@ The goal of this analysis is to determine if the data validates this report of a
 Looking at the tables below, we can see that only the average math score was impacted by removing THS 9th graders. The average math score decreased from 79 (including THS 9th graders) to 78.9 when THS 9th graders were removed from the analysis.
 
 Data including THS 9th graders
-![image](Resources\dist_sum_pre.jpg)
+![image](Resources/dist_sum_pre.jpg)
 
 Data excluding THS 9th graders
 ![image](Resources\dist_sum_post.jpg)
